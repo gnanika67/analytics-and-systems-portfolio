@@ -1,4 +1,3 @@
-# analytics-and-systems-portfolio
 # Analytics & Systems Portfolio – Gnanika Siddula
 
 I am a Computer Science graduate student with experience across data analytics, software systems, simulation, and applied research.  
